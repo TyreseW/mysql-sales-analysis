@@ -1,12 +1,13 @@
 # mysql-sales-analysis
 
-Title: Retail Demand & Sales Analysis Using MySQL
+Title: 
+Retail Demand & Sales Analysis Using MySQL
 
 Objective:
-Analyze how pricing, promotions, inventory, and external factors affect product demand.
+Analyze how pricing, promotions, inventory, and external factors affect product demand on 100K+ records.
 
 Data Source: Kaggle.com
-100k+ records
+
 
 Key Columns:
   
