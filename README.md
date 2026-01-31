@@ -1,6 +1,6 @@
 # mysql-sales-analysis
 
-Title: 
+TITLE: 
 Retail Demand & Sales Analysis Using MySQL
 
 Objective:
