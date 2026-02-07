@@ -1,6 +1,6 @@
 # mysql-sales-analysis
 
-##**Project Title:**
+## **Project Title:**
 
 Retail Demand & Sales Analysis Using MySQL
 
