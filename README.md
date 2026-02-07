@@ -1,15 +1,16 @@
 # mysql-sales-analysis
 
-Project Title: 
+**Project Title:**
+
 Retail Demand & Sales Analysis Using MySQL
 
-Objective:
+**Objective:**
 Analyze how pricing, promotions, inventory, and external factors affect product demand on 100K+ records.
 
-Data Source: Kaggle.com
+**Data Source:** Kaggle.com
 
 
-Key Columns:
+**Key Columns:**
 
 Date: Date of the record.
 
