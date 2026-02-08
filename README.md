@@ -1,6 +1,5 @@
 
-## **Project Title:**
-Retail Demand & Sales Analysis Using MySQL
+## **Project Title:** Retail Demand & Sales Analysis Using MySQL
 
 **Objective:**
 Analyze how pricing, promotions, inventory, and external factors affect product demand on 100K+ records.
